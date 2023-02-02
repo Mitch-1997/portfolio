@@ -10,9 +10,10 @@
   -- 
   -->
 
-<h1 align="center">Hi 👋, I'm MItchell Ngetich Just graduated from Moringa, ready to start my first internship experience!</h1>
+<h1 align="center">Hi 👋, I'm MItchell Ngetich</h1>
 <!-- TODO: Replace with your intro text -->
-<!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
+<!-- Example: 
+<h2 Just graduated from Moringa, readyc  to start my first internship experience! </h2>
 <h3 align="center">A partner of Moringa, ready to start working with iTalanta open-source!</h3>
 
 <br/>
